@@ -1,0 +1,9 @@
+export { HeroSection } from "./HeroSection";
+export { LeadGenerationSection } from "./LeadGenerationSection";
+export { PlatformOverviewSection } from "./PlatformOverviewSection";
+export { CallManagementSection } from "./CallManagementSection";
+export { AdvancedCapabilitiesSection } from "./AdvancedCapabilitiesSection";
+export { ProductExplorationSection } from "./ProductExplorationSection";
+export { PricingSection } from "./PricingSection";
+export { FaqSection } from "./FaqSection";
+export { FinalCtaSection } from "./FinalCtaSection";
